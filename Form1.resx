@@ -123,19 +123,28 @@
   <metadata name="textBoxFout.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="textBoxTotaalPrijs.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="textBoxFoutStartDatum.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="textBoxFoutEindDatum.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="pictureBox1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAABGdBTUEAALGPC/xhBQAAAuxJREFUWEfF
+        mc2KE0EUhSPoSgUVNCgzk+muQNAsoxtBGLe6ci8i+CLqUgQXIvoCuhD0AUQQJIomJjKCs3SnW1HwF0a9
+        VZ7bU+lUd93qrqQ/OAx1f89MOkkn04rBmzS9T/pbKqVuorwZnKbk+o0xiye/fKLUbaS8UP0w349UfHKL
+        fiBcmdy8eMbfra0dXMhgEHU2PVEeLsqozTRNT/KeSZKcQTgMav6wDLM2lumLCMlY1l/WRWa60zmOUDlv
+        19cPNGWWCdrftFlG5IOLqGoXQo1Br++X4ecrQvOwYRyjQnN/8vwijbrdPsoNHMdxltJkBHi+kVJnZ7ST
+        +4byDM7huAMS33EUQfV3JUKtWUwPddc0W3COJDPsDHrgHons+nGS9MwAC6t2zrDG9KXpUxzDDYfWa7jH
+        o0LDWjhmgTs4ljLs9fbr+mcbG7sREsFLPSoyvK3zfHiQHRy8SpK2zs8oSa4jLWZuhltOw9Nu97DJdzpH
+        s0HIzcF5S5VuLR1zXHIa1pi8UltewwzXVVFAf7lhksgwPUNvcV0VYUwtslmSoa68vo65V6DP9Pp7wfQ5
+        8magh6xW0lSW536JiurNIA9ZraSJa+jSOEc/z1t6reNSvVxZOcTz9H0Dx80SD1mtpIlrakupjzxvlKan
+        OG6WeMhqJU1cU1s1DdMjPG7Re/sNXxMPrq2KhukJOzC1g8EeE0Dj0Bwc8ODaqmh4rs7XyPnaimj4V1kj
+        N0TQJ54nNfy+39+na+j6vYrQf8qaOWcr/3EmBNMvNFxYI2mOhd4TaHgbx1kkA2IwSdN7bHis1CWE5/D6
+        oeQfXaBfRhBqDPqlXsDwY4TcoGgpl0YZQT6aNh28f6TU6aZMV96rv/Jctmnet9lu70UoDPrwd4KH0D3H
+        FYSjQ/Of8x6E6sHDog20WNhsGvgl1nD7O2gtett9hFR87EWsTaWOIF2I/X8MW0gvHlr2JL88QNcwphmm
+        q6vH6NZxy2HMiN61RqFfbblptf4BdYHQrZIukNQAAAAASUVORK5CYII=
+</value>
+  </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEA3NwAAAEAIAB4DAMAFgAAACgAAADcAAAAuAEAAAEAIAAAAAAAQPQCAAAAAAAAAAAAAAAAAAAA
